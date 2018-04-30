@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project1_1</string>
+    <string name="strBtn3"> 가져온 버튼입니다 </string>
+    <string name="title">스마트금융과</string>
+    <string name="description">
+        어려워
+        어려워어려워
+        어려워어려워어려워
+        어려워어려워어려워어려워
+        어려워어려워어려워어려워어려워
+    </string>
+</resources>
