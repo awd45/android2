@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planet">
+        <item> 목록1</item>
+        <item> 목록2</item>
+        <item> 목록3</item>
+        <item> 목록4</item>
+        <item> 목록5</item>
+        <item> 목록6</item>
+    </string-array>
+
+
+</resources>
