@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="사용자" />
+
+<Button
+    android:id="@+id/infoButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="신상정보" />
+
+<Button
+    android:id="@+id/backButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="돌아가기" />
+</LinearLayout>
